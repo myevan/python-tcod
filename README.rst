@@ -48,8 +48,10 @@ https://python-tcod.readthedocs.io/en/latest/
  Installation 설치
 ==============
 Detailed installation instructions are here:
-자세한 설치 방법은 아래 링크에서 확인하실 수 있습니다.
 https://python-tcod.readthedocs.io/en/latest/installation.html
+
+자세한 설치 방법은 아래 링크에서 확인하실 수 있습니다:
+https://github.com/myevan/python-tcod/blob/korean/docs/installation.rst
 
 For the most part it's just::
 가장 중요한 내용은 딱 한줄입니다.
